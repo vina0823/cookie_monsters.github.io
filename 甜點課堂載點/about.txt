@@ -1,0 +1,36 @@
+﻿吃一口讓你宛如置身巴黎街頭，每一口都是滿滿的幸福。
+嚴選獨家法式香草佐料
+時尚、純手工製作
+全台第一家上市總店
+採用台灣當季新鮮特產水果
+          
+營業時間：12:00p.m. ~ 20:00p.m.
+電話：02-12345678
+地址：台中市中區美術路二段102 號</p>
+          
+
+
+© 2018 All Rights Reserved.
+
+
+
+
+
+css---------------------------
+
+body {
+font-family: Microsoft JhengHei;
+}
+
+#banner {
+background-image: url(../images/banner.jpg);
+background-position: center center;
+background-size: cover;
+height: 300px;
+margin-top: 3.5rem;
+}
+
+.title {
+color: #FA8072;
+font-weight: bold;
+}

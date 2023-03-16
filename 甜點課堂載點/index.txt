@@ -1,0 +1,24 @@
+甜時 ． Sweet
+
+<h1> 草莓奶油慕斯蛋糕</h1>
+<p> 堅持使用頂級原料，不含任何防腐劑。<br> 讓你吃得安心，看的到用心。</p>
+
+justify-content-center align-items-center text
+
+
+
+CSS--------------------------------------
+body {
+font-family: Microsoft JhengHei;
+background-image: url(../images/cake.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center center;
+background-size: cover;
+}
+.col-lg-5 {
+background-color: rgba(255, 73, 73, 0.62);
+}
+.text {
+height: 100vh;
+}

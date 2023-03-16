@@ -1,0 +1,30 @@
+﻿鄉村檸檬乳酪塔
+採用紐西蘭小鄉村濃郁的乳酪香味，搭配清涼檸檬口感是鄉村中最具影響力的一道甜點。
+我要訂購
+
+
+
+精緻手工巧克蛋糕
+本店採用歐洲低筋麵粉純手工製作，搭配瑞士金典巧克力碎片，每一口都能被巧克力滋潤，令人著迷且充滿想像的奇幻空間。
+
+
+限量莓果乳酪蛋糕
+自製微酸香甜的草莓醬點綴了藍莓，雙層華麗的享受與令人驚豔的口感絕對讓你幸福美滿。
+
+
+CSS--------------------------------------
+
+body {
+    font-family: Microsoft JhengHei;
+    }
+#banner {
+    background-image: url(../images/banner.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 300px;
+    margin-top: 3.5rem;
+    }
+.title {
+    color: #FA8072;
+    font-weight: bold;
+    }
